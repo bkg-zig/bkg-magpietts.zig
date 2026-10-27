@@ -49,3 +49,4 @@ Das Live-Modell wird aus dem Modell-Volume eingebunden und ist nicht Teil des So
 - docs/API-COMPAT.md: REST-/WebSocket-Vertrag und offene Paritätsgrenzen.
 - docs/DEPLOYMENT.md: Image-Build, Paralleltest und Rollout.
 # bkg-magpietts.zig
+# bkg-magpietts.zig
